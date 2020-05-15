@@ -12,7 +12,7 @@ Learning to create and merge branches is only the beginning.  The trickier and m
 
 > these changes were made on ```master``` before merging ```interesting-links```
 
-If you're having trouble visualizing the branches in this repository, try taking a look at [the network visualization](https://web.archive.org/web/20200428025751/https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-repositorys-network) X in the "insights" tab.
+If you're having trouble visualizing the branches in this repository, try taking a look at [the network visualization](https://help.github.com/en/github/visualizing-repository-data-with-graphs/viewing-a-repositorys-network) in the "insights" tab.
 
 > these changes were made on ```master``` after merging ```aside-info```
 
